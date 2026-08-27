@@ -28,8 +28,10 @@ Script básico en Python diseñado para inicializar el cliente oficial de Google
 - Ejecución del Script
     - Ejecuta el script desde tu terminal con el siguiente comando:
     - python ejercicio1.py
+<img src="CarpetaEvidenciasFuncionamiento/Imagen1.png" width="1200" alt="imagen1">
 
-------
+---------------------------------------------------------------------
+
 # Ejercicio 2: Procesador de Textos Inteligente
 Script en Python diseñado para procesar y editar artículos utilizando la API oficial de Google GenAI. Cuenta con un rol de Editor Editorial configurado mediante system_instruction para ejecutar tareas de resumen ejecutivo o profesionalización de textos de forma precisa y formal.
 
@@ -60,8 +62,10 @@ Script en Python diseñado para procesar y editar artículos utilizando la API o
   - Ejecuta el script desde tu terminal con el siguiente comando:
   - python ejercicio2.py
 
+<img src="CarpetaEvidenciasFuncionamiento/Imagen2.png" width="1200" alt="Imagen 2">
 
 ----
+
 # Ejercicio 3: Chat de Soporte con Historial (Few-Shot)
 Sistema de chat conversacional interactivo para una tienda especializada en maquillaje y belleza, desarrollado en Python con la librería oficial de Google GenAI (google-genai). Utiliza system_instruction para actuar como una asesora de belleza amable y cuenta con historial precargado (Few-shot) con precios en pesos colombianos (COP).
 
@@ -85,5 +89,8 @@ Sistema de chat conversacional interactivo para una tienda especializada en maqu
 
 - Ejecución
   - python ejercicio3.py
+ 
+<img src="CarpetaEvidenciasFuncionamiento/Imagen3parte1.png" width="1200" alt="Imagen 3 Parte 1">
+<img src="CarpetaEvidenciasFuncionamiento/Imagen3parte2.png" width="1200" alt="Imagen 3 Parte 2">
  
 
